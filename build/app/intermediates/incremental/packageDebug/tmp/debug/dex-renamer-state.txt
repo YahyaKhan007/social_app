@@ -1,0 +1,4 @@
+#Sat Oct 02 06:29:25 PKT 2021
+base.0=/home/yahya/StudioProjects/social/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
