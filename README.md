@@ -1,6 +1,6 @@
 # social
 
-A new Flutter project.
+A Social App (Instagram Clone UI) for a client
 
 ## Getting Started
 
