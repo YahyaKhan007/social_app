@@ -1,6 +1,6 @@
+A Social App (Instagram Clone UI) for a client
 # social
 
-A Social App (Instagram Clone UI) for a client
 
 ## Getting Started
 
